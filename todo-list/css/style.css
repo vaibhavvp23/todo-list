@@ -1,0 +1,13 @@
+th,
+td {
+    padding: 8px;
+}
+
+.task {
+    width: 300px;
+}
+
+.createDate,
+.completeDate {
+    width: 150px;
+}
